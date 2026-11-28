@@ -1,0 +1,8 @@
+node_modules
+.vercel
+.grok
+screenshots
+attachments
+dist
+*.log
+.nitro
